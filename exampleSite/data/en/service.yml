@@ -16,10 +16,11 @@ service:
     content: Nuestro conjunto de tips y conocimiento de SEO de las plataformas de
       rentas nos permite hacer que tu anuncio resalte dentro de las busquedas de Airbnb
       y Booking.com
-  - name: Graphic Design
+  - name: Optimización
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Te proveemos de consejos para asegurar que tu propiedad tenga los estándares
+      para recibir tu reservas vacacionales. Cubriendo aspectos como decoración y
+      layout. '
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
