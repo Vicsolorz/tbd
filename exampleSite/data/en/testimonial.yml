@@ -4,6 +4,12 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: 'Alana '
+    image: ''
+    image_webp: ''
+    date: 02 Dic 2021
+    content: 'Gracias a la administración y recomendación de TBD hemos podido incrementar
+      nuestro ingresos. '
   - name: Ana
     image: ''
     image_webp: ''
