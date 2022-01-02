@@ -5,7 +5,8 @@ banner:
   bg_image: "/images/hero-area.png"
   icon: ''
   title: Administramos tu Inmueble
-  content: 'TBD administra por ti tu propiedad. Contáctanos y descuebre nuestro servicio. '
+  content: 'TBD administra tu propiedad. Contáctanos y empieza a ganar dinero con
+    tu propiedad '
   button:
     enable: true
     label: Explore Us
