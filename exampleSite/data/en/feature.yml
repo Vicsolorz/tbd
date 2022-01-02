@@ -18,10 +18,10 @@ feature:
     icon: ti-map-alt
     content: 'Nuestros Concierges están siempre disponible para revisar a tus huespedes,
       entregar las llaves y dar algunas recomendaciones de que hacer y que visitar. '
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Servicio de Limpieza profesionales
+    icon: ti-brush
+    content: 'Nuestro servicio de limpieza es realizado con estándares de hotelería.
+      Limpieza general de todas las zonas, lavado de sabanas y toallas. '
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
