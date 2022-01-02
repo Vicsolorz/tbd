@@ -14,10 +14,10 @@ feature:
     content: 'TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
       de nuestro servicio. Creemos firmemente que clientes contentos están con nostros
       por que quieren estar. '
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Reunión cara a cara
+    icon: ti-map-alt
+    content: 'Nuestros Concierges están siempre disponible para revisar a tus huespedes,
+      entregar las llaves y dar algunas recomendaciones de que hacer y que visitar. '
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
