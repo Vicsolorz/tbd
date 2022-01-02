@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Algun de nuestras propiedades
   portfolio_item:
+  - name: Cuarto de visitas
+    image: "/images/h_aca-1.jpeg"
+    image_webp: "/images/h_aca-1.jpeg"
+    categories: ''
+    content: Cuarto optimizado para Airbnb
+    link: ''
   - name: Recamara Principal
     image: "/images/recamara_principal.jpeg"
     image_webp: "/images/recamara_principal.jpeg"
