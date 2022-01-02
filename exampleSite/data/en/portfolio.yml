@@ -15,11 +15,9 @@ portfolio:
     categories: []
     content: Diseño e intalación de sala de estar de uno de nuestros clientes.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+  - name: Decoración recamara
+    image: "/images/h_aca-3-1.jpeg"
+    image_webp: "/images/h_aca-3-1.jpeg"
+    categories: []
+    content: 'Diseño de recamara del departamento de uno de nuestro cliente. '
+    link: ''
