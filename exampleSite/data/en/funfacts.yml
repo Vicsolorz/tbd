@@ -8,7 +8,7 @@ funfacts:
     icon: ti-face-smile
     count: "23"
   - title: Huesped recibidos
-    icon: ti-archive
+    icon: ti-heart
     count: "320"
   - title: Retroalimentación positiva
     icon: ti-thumb-up
