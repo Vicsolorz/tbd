@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Algun de nuestras propiedades
+  title: Alguna de nuestras propiedades
   portfolio_item:
   - name: Sala de estar con terraza
     image: "/images/h_aca-1-1.jpeg"
