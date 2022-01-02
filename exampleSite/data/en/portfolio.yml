@@ -9,12 +9,11 @@ portfolio:
     categories: []
     content: ''
     link: ''
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Estancia
+    image: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
+    image_webp: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
+    categories: []
+    content: Diseño e intalación de sala de estar de uno de nuestros clientes.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
