@@ -7,10 +7,10 @@ service:
     icon: ti-star
     content: 'Nuestras fotos profesionales optimizadas para Airbnb enseñarán tu propiedad
       en su mejor luz. '
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Precios dinámicos
+    icon: ti-stats-up
+    content: 'Nuestro algoritmo de precios te permite generar hasta un 30% más de
+      ingreso ya sea en Airbnb o booking '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
