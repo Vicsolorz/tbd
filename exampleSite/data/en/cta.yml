@@ -8,5 +8,5 @@ cta:
     comisión por administrar tus entradas 20% incl. IVA! '
   button:
     enable: true
-    label: Start a project with us
+    label: Empieza a trabajar con nosotros!
     link: "#contact"
