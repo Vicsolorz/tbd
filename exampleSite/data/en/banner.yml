@@ -4,7 +4,7 @@ banner:
   bg_image_webp: "/images/hero-area.png"
   bg_image: "/images/hero-area.png"
   icon: ''
-  title: Descubre el mejor servicio de adminitración de inmuebles
+  title: Administramos tu Inmueble
   content: 'TBD administra por ti tu propiedad. Contáctanos y descuebre nuestro servicio. '
   button:
     enable: true
