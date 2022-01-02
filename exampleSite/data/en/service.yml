@@ -11,10 +11,11 @@ service:
     icon: ti-stats-up
     content: 'Nuestro algoritmo de precios te permite generar hasta un 30% más de
       ingreso ya sea en Airbnb o booking '
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Airbnb Listing
+    icon: ti-layout-media-center-alt
+    content: Nuestro conjunto de tips y conocimiento de SEO de las plataformas de
+      rentas nos permite hacer que tu anuncio resalte dentro de las busquedas de Airbnb
+      y Booking.com
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
