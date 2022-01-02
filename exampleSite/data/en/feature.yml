@@ -9,10 +9,11 @@ feature:
     de limpieza, ads y dudas de tús huespedes ¿Que esperas?  Incrementa el ingreso
     de tu propiedad.  '
   feature_item:
-  - title: SEO Optimized
-    icon: ti-bag
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Administración transparente
+    icon: ti-camera
+    content: 'TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
+      de nuestro servicio. Creemos que clientes contentos están con nostros por que
+      quieren. '
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
