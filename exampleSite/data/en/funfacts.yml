@@ -10,9 +10,6 @@ funfacts:
   - title: Huesped recibidos
     icon: ti-archive
     count: "320"
-  - title: Positive feedback
+  - title: Retroalimentación positiva
     icon: ti-thumb-up
-    count: "158"
-  - title: Cups of Coffee
-    icon: ti-gift
-    count: "250"
+    count: "600"
