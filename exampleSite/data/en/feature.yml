@@ -22,7 +22,7 @@ feature:
     icon: ti-brush
     content: 'Nuestro servicio de limpieza es realizado con estándares de hotelería.
       Limpieza general de todas las zonas, lavado de sabanas y toallas. '
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Superhost
+    icon: ti-crown
+    content: 'Tener un administrador para tu propiedad te hará superhost en muy poco
+      tiempo. Esto hará que tu ingreso incremente. '
