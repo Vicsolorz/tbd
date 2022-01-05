@@ -1,11 +1,11 @@
 ---
 portfolio:
   enable: true
-  title: Alguna de nuestras propiedades
+  title: Alguna de nuestros cliente
   portfolio_item:
   - name: Sala de estar con terraza
     image: "/images/h_aca-1-1.jpeg"
-    image_webp: "/images/h_aca-1-1.jpeg"
+    image_webp: "/images/h_aca-1-1-copy.webp"
     categories: ''
     content: 'Diseño de sala de estar con departamento con terraza. '
     link: ''
