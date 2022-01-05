@@ -13,15 +13,15 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Sobre nosotros"
+name = "About"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Servicios"
+name = "Services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "Clientes"
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
@@ -29,21 +29,44 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 5
 [[Languages.en.menu.main]]
-name = "Contáctanos"
+name = "Contact"
 url = "#contact"
-weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 6
+[Languages.es]
+contentDir = 'content/spanish'
+copyright = 'Copyright &copy; 2020 Designed by TBD"
+home = "Home"
+languageCode = "es-MX"
+languageName = "Es"
+weight = 1
+[[Languages.es.menu.main]]
+name = "Sobre nosostros"
+url = "#about
+weight = 1
+[[Languages.es.menu.main]]
+name = "Servicios"
+url = #service
+weight = 2
+[[Languages.es.menu.main]]
+name = "Nuestros clientes"
+url = #portfolio
+weight = 3
+[[Languages.es.menu.main]]
+name = "Equipo"
+url = #team
+weight = 4
+[[Languages.es.menu.main]]
+name = "Blog"
+url = #blog
+weight = 5
+[[Languages.es.menu.main]]
+name = "Contáctanos"
+url = #contact
+weight = 6
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
