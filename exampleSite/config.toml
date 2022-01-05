@@ -1,5 +1,5 @@
 baseURL = "https://www.tbdhost.com/"
-disableLanguages = ["Fr"]
+disableLanguages = ""
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -42,7 +42,7 @@ copyright = 'Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 home = "Inicio"
 languageCode = "es-MX"
 languageName = "Es"
-weight = 1
+weight = 2
 [[Languages.es.menu.main]]
 name = "Sobre nosostros"
 url = "#about
@@ -73,7 +73,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = 3
 [[Languages.fr.menu.main]]
 name = "sur"
 url = "#about"
