@@ -69,35 +69,35 @@ weight = 6
 
 ################################ Spanish Navigation ######################
 
-[[Languages.es.menu.main]]
-name = "Sobre nosostros"
-url = "#about"
-weight = 1
+#[[Languages.es.menu.main]]
+#name = "Sobre nosostros"
+#url = "#about"
+#weight = 1
 
-[[Languages.es.menu.main]]
-name = "Servicios"
-url = "#services"
-weight = 2
+#[[Languages.es.menu.main]]
+#name = "Servicios"
+#url = "#services"
+#weight = 2
 
-[[Languages.es.menu.main]]
-name = "Nuestros clientes"
-url = "#portfolio"
-weight = 3
+#[[Languages.es.menu.main]]
+#name = "Nuestros clientes"
+#url = "#portfolio"
+#weight = 3
 
-[[Languages.es.menu.main]]
-name = "Equipo"
-url = "#team"
-weight = 4
+#[[Languages.es.menu.main]]
+#name = "Equipo"
+#url = "#team"
+#weight = 4
 
-[[Languages.es.menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 5
+#[[Languages.es.menu.main]]
+#name = "Blog"
+#url = "#blog"
+#weight = 5
 
-[[Languages.es.menu.main]]
-name = "Contáctanos"
-url = "#contact"
-weight = 6
+#[[Languages.es.menu.main]]
+#name = "Contáctanos"
+#url = "#contact"
+#weight = 6
 
 ################################ French Nav ######################
 
@@ -189,13 +189,13 @@ home = "Accueil"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 ################################ Spanish Language ########################
-[Languages.es]
-languageName = "Es"
-languageCode = "es-MX"
-contentDir = 'content/spanish'
-weight = 2
-home = "Inicio"
-copyright = 'Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+#[Languages.es]
+#languageName = "Es"
+#languageCode = "es-MX"
+#contentDir = 'content/spanish'
+#weight = 2
+#home = "Inicio"
+#copyright = 'Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 
 
