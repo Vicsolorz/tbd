@@ -193,24 +193,10 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 ################################ Spanish Language ########################
 [Languages.es]
 languageName = "Es"
-languageCode = "es-MX"
+languageCode = "es-mx"
 contentDir = "content/spanish"
 weight = 1
 home = "Inicio"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
