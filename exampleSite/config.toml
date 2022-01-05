@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "TBD"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -38,8 +38,8 @@ url = "#contact"
 weight = 6
 [Languages.es]
 contentDir = 'content/spanish'
-copyright = 'Copyright &copy; 2020 Designed by TBD"
-home = "Home"
+copyright = 'Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+home = "Inicio"
 languageCode = "es-MX"
 languageName = "Es"
 weight = 1
@@ -69,7 +69,7 @@ url = #contact
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
