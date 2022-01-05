@@ -1,35 +1,76 @@
----
+#################################### portfolio ###############################
 portfolio:
-  enable: true
-  title: Alguna de nuestros cliente
-  portfolio_item:
-  - name: Sala de estar con terraza
-    image: "/images/h_aca-1-1.jpeg"
-    image_webp: "/images/h_aca-1-1-copy.webp"
-    categories: ''
-    content: 'Diseño de sala de estar con departamento con terraza. '
-    link: ''
-  - name: Cuarto de visitas
-    image: "/images/h_aca-1.jpeg"
-    image_webp: "/images/h_aca-1.jpeg"
-    categories: ''
-    content: Cuarto optimizado para Airbnb
-    link: ''
-  - name: Recamara Principal
-    image: "/images/recamara_principal.jpeg"
-    image_webp: "/images/recamara_principal.jpeg"
-    categories: []
-    content: ''
-    link: ''
-  - name: Estancia
-    image: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
-    image_webp: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
-    categories: []
-    content: Diseño e intalación de sala de estar de uno de nuestros clientes.
-    link: ''
-  - name: Decoración recamara
-    image: "/images/h_aca-3-1.jpeg"
-    image_webp: "/images/h_aca-3-1.jpeg"
-    categories: []
-    content: 'Diseño de recamara del departamento de uno de nuestro cliente. '
-    link: ''
+  enable : true
+  title : Our Works
+  portfolio_item :
+    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["design"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Sound system
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # portfolio item loop
+    - name : Clock Product
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["design", "development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Bottol Label
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["photography", "development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Shopping Bag
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["design"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Business Card
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Stationary Design
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["design", "development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"

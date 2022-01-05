@@ -1,16 +1,12 @@
----
+############################### Banner ################################
 banner:
-  enable: true
-  bg_image_webp: "/images/hero-area.png"
-  bg_image: "/images/hero-area.png"
-  icon: ''
-  title: ''
-  content: "TBD administra tu propiedad.\n\nReunión cara a cara, servicio de limpieza,
-    revisión de inventario, optimización de precios y colocación de anuncio.... ofrecemos
-    un amplio servicio para la administración de tus entradas vacacionales. Incrementamos
-    tu ingresos permitiendonos administrar tu propiedad por nuestros servicios digitales!
-    \ "
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Experience the new reality"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
   button:
-    enable: true
-    label: Explore Us
-    link: "#services"
+    enable : true
+    label : "Explore Us"
+    link : "#services"

@@ -1,0 +1,23 @@
+---
+service:
+  enable: true
+  title: Nuestros Servicios
+  service_item:
+  - name: Un ad de 5 estrellas
+    icon: ti-star
+    content: 'Nuestras fotos profesionales optimizadas para Airbnb enseñarán tu propiedad
+      en su mejor luz. '
+  - name: Precios dinámicos
+    icon: ti-stats-up
+    content: 'Nuestro algoritmo de precios te permite generar hasta un 30% más de
+      ingreso ya sea en Airbnb o booking '
+  - name: Airbnb Listing
+    icon: ti-layout-media-center-alt
+    content: Nuestro conjunto de tips y conocimiento de SEO de las plataformas de
+      rentas nos permite hacer que tu anuncio resalte dentro de las busquedas de Airbnb
+      y Booking.com
+  - name: Optimización
+    icon: ti-palette
+    content: 'Te proveemos de consejos para asegurar que tu propiedad tenga los estándares
+      para recibir tu reservas vacacionales. Cubriendo aspectos como decoración y
+      layout. '

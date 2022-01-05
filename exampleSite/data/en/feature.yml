@@ -1,28 +1,27 @@
----
+############################# feature ###################################
 feature:
-  enable: true
-  image: "/images/about-cleaning_lady.jpg"
-  image_webp: "/images/about-cleaning_lady-copy.webp"
-  title: Somos administradores de propiedades
-  content: 'Llamando a todos los propietarios! Nuestro servicio de administración
-    de rentas vacacionales puede hacerce cargo de tu depa o casa. Coordinando trabajo
-    de limpieza, ads y dudas de tús huespedes ¿Que esperas?  Incrementa el ingreso
-    de tu propiedad.  '
-  feature_item:
-  - title: Administración transparente
-    icon: ti-camera
-    content: 'TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
-      de nuestro servicio. Creemos firmemente que clientes contentos están con nostros
-      por que quieren estar. '
-  - title: Reunión cara a cara
-    icon: ti-map-alt
-    content: 'Nuestros Concierges están siempre disponible para revisar a tus huespedes,
-      entregar las llaves y dar algunas recomendaciones de que hacer y que visitar. '
-  - title: Servicio de Limpieza profesionales
-    icon: ti-brush
-    content: 'Nuestro servicio de limpieza es realizado con estándares de hotelería.
-      Limpieza general de todas las zonas, lavado de sabanas y toallas. '
-  - title: Superhost
-    icon: ti-crown
-    content: 'Tener un administrador para tu propiedad te hará superhost en muy poco
-      tiempo. Esto hará que tu ingreso incremente. '
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re A Digital Design Agency.
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  feature_item : 
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

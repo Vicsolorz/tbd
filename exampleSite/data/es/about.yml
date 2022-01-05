@@ -1,0 +1,19 @@
+---
+about:
+  enable: true
+  title: Sobre nosotros
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Somos seguros
+    content: 'Puedes estar tranquilo de dejar tu propiedad con nosotros. Cuidamos
+      de ella y damos el mejor servicio a nuestros huéspedes para que nos recomienden
+      con amigos y familiares. '
+  - icon: ti-cup
+    title: Somos profesionales
+    content: 'Entendemos que esto es un negocio. Buscamos maximizar las gananacias
+      de tu propiedad. Colocamos tu anuncio en las plataformas más utilizadas con
+      uso de SEO para que se encuentre en las primeras opciones. '
+  - icon: ti-thought
+    title: Somos un equipo
+    content: 'Deja que nuestro equipo de profesionales te guíe en todo lo que hay
+      que administrar y mantener de tu propiedad. '

@@ -1,0 +1,15 @@
+---
+funfacts:
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  counter_item:
+  - title: Propietarios contentos
+    icon: ti-face-smile
+    count: "28"
+  - title: Huesped recibidos
+    icon: ti-heart
+    count: "315"
+  - title: Retroalimentación positiva
+    icon: ti-thumb-up
+    count: "309"
