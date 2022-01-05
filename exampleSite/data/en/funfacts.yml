@@ -6,10 +6,10 @@ funfacts:
   counter_item:
   - title: Propietarios contentos
     icon: ti-face-smile
-    count: "30"
+    count: "28"
   - title: Huesped recibidos
     icon: ti-heart
-    count: "320"
+    count: "315"
   - title: Retroalimentación positiva
     icon: ti-thumb-up
-    count: "600"
+    count: "309"
