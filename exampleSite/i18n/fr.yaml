@@ -20,11 +20,7 @@
   translation: Portfolio
 - id: team
   translation: Équipe
-- id: pricing
-  translation: Tarification
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher

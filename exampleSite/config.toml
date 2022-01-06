@@ -6,6 +6,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "TBD"
+DefaultContentLanguage = 'es'
 
 ############################## Plugins ##############################
 [[params.plugins.css]]
@@ -101,35 +102,35 @@ weight = 6
 
 ################################ French Nav ######################
 
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
+#[[Languages.fr.menu.main]]
+#name = "sur"
+#url = "#about"
+#weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
+#[[Languages.fr.menu.main]]
+#name = "un service"
+#url = "#services"
+#weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
+#[[Languages.fr.menu.main]]
+#name = "portefeuille"
+#url = "#portfolio"
+#weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
+#[[Languages.fr.menu.main]]
+#name = "équipe"
+#url = "#team"
+#weight = 4
 
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 5
+#[[Languages.fr.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 5
 
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 6
+#[[Languages.fr.menu.main]]
+#name = "contact"
+#url = "#contact"
+#weight = 6
 
 ############################# Default Parameters ##########################
 
@@ -171,32 +172,31 @@ icon = "ti-instagram"
 link = "#"
 
 ################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
-home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+[language]
+    [Languages.en]
+        languageName = "English"
+        languageCode = "en-us"
+        contentDir = "content/english"
+        weight = 2
+        home = "Home"
+        copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 3
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 3
+#home = "Accueil"
+#copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 ################################ Spanish Language ########################
-[Languages.es]
-languageName = "Es"
-languageCode = "es-mx"
-contentDir = "content/spanish"
-weight = 1
-home = "Inicio"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
-
-###### language config ########
-defaultContentLanguage = 'es'
+[language]
+    [Languages.es]
+        languageName = "Spanish"
+        languageCode = "es-mx"
+        contentDir = "content/spanish"
+        weight = 1
+        home = "Inicio"
+        copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
