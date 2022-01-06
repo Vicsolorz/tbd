@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.tbdhost.com/"
-disableLanguages = []
+disableLanguages = ['Fr']
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -139,7 +139,7 @@ logo = "images/logo.png"
 author = "TBD"
 description = "Property management"
 # Google Analytics
-google_analytics_id = ""
+google_analytics_id = "G-CL4BJM56EZ"
 # post share
 post_share = true
 
@@ -198,3 +198,5 @@ home = "Inicio"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 
+###### language config ########
+defaultContentLanguage = 'es'
