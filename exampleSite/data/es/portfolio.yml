@@ -6,30 +6,30 @@ portfolio:
   - name: Sala de estar con terraza
     image: "/images/h_aca-1-1.jpeg"
     image_webp: "/images/h_aca-1-1-copy.webp"
-    categories: ''
+    categories: ["design"]
     content: 'Diseño de sala de estar con departamento con terraza. '
     link: ''
   - name: Cuarto de visitas
     image: "/images/h_aca-1.jpeg"
     image_webp: "/images/h_aca-1.jpeg"
-    categories: ''
+    categories: ["design"]
     content: Cuarto optimizado para Airbnb
     link: ''
   - name: Recamara Principal
     image: "/images/recamara_principal.jpeg"
     image_webp: "/images/recamara_principal.jpeg"
-    categories: []
+    categories: ["design"]
     content: ''
     link: ''
   - name: Estancia
     image: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
     image_webp: "/images/a4af37fdb06551a724bb04b9792e1bb5.jpeg"
-    categories: []
+    categories: ["design"]
     content: Diseño e intalación de sala de estar de uno de nuestros clientes.
     link: ''
   - name: Decoración recamara
     image: "/images/h_aca-3-1.jpeg"
     image_webp: "/images/h_aca-3-1.jpeg"
-    categories: []
+    categories: ["design"]
     content: 'Diseño de recamara del departamento de uno de nuestro cliente. '
     link: ''
