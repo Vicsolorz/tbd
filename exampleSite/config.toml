@@ -172,14 +172,13 @@ icon = "ti-instagram"
 link = "#"
 
 ################################ English Language ########################
-[language]
-    [Languages.en]
-        languageName = "English"
-        languageCode = "en-us"
-        contentDir = "content/english"
-        weight = 2
-        home = "Home"
-        copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+[Languages.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+home = "Home"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 ################################ France Language ########################
 #[Languages.fr]
@@ -191,12 +190,10 @@ link = "#"
 #copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
 
 ################################ Spanish Language ########################
-
-[language]
-    [Languages.es]
-        languageName = "Spanish"
-        languageCode = "es-mx"
-        contentDir = "content/spanish"
-        weight = 1
-        home = "Inicio"
-        copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
+[Languages.es]
+languageName = "Spanish"
+languageCode = "es-mx"
+contentDir = "content/spanish"
+weight = 1
+home = "Inicio"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher] & Developed by TBD"
