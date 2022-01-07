@@ -11,44 +11,18 @@ pricing:
     - Un mes de despósito de seguridad.
     - Mantenimiento y operación de rentas vacacionales.
     button:
-      label: Contáctanos
-      link: '#Contact'
+      label: Más informes
+      link: "#contact"
   - name: Socios
-    price: "20% incl IVA sobre los ingresos"
+    price: "20% incl IVA"
     unit: mensual
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Fotos optimizadas para plataformas.
+    - SEO en plataformas.
+    - Acceso y plática con huéspdes. 
+    - Inventario entrada y salida. 
+    - Algortimo de precios. 
     button:
-      label: Signup
-      link: "#"
-  - name: Gold
-    price: "$199"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
+      label: Más informes
+      link: "#contact"
+
