@@ -1,23 +1,21 @@
 pricing:
-  enable: false
-  title: Our Plans
+  enable: true
+  title: Nuestros Planes
   pricing_table:
-  - name: Free
-    price: "$99"
-    unit: month
+  - name: Subarrendamiento
+    price: "Conoce tu renta fija mensual en 24hrs"
+    unit: Anual
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Despreocupate por un año y asegura tu ingreso. 
+    - Aval de garantía. 
+    - Un mes de despósito de seguridad.
+    - Mantenimiento y operación de rentas vacacionales.
     button:
-      label: Signup
-      link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+      label: Contáctanos
+      link: '#Contact'
+  - name: Socios
+    price: "20% incl IVA sobre los ingresos"
+    unit: mensual
     services:
     - 1GB Disk Space
     - 10 Email Account
