@@ -4,44 +4,44 @@ portfolio:
   title : Our Works
   portfolio_item:
     - name: Sala de estar con terraza
-      image: "/images/Portfolio/cocina.jpeg"
-      image_webp: 
+      image: images/Portfolio/cocina.jpeg
+      image_webp: images/Portfolio/cocina.webp
       categories: ["Depto cliente"]
       content: 'Diseño de sala de estar con departamento con terraza.'
       link: ''
     - name: Cuarto de visitas
-      image: "/images/Portfolio/estancia.jpeg"
-      image_webp: 
+      image: images/Portfolio/estancia.jpeg
+      image_webp: images/Portfolio/estancia.webp
       categories: ["Depto cliente"]
       content: Cuarto optimizado para Airbnb
       link: ''
     - name: Recamara Principal
-      image: "/images/Portfolio/H_Aca - 1.jpeg"
-      image_webp: ""
+      image: images/Portfolio/H_Aca - 1.jpeg
+      image_webp: images/Portfolio/H_Aca - 1.webp
       categories: ["Depto cliente"]
       content: 'Diseño del departamento de nuestro cliente.'
       link: ''
     - name: Estancia
-      image: "/images/Portfolio/H_Aca - 2.jpeg"
-      image_webp: "/images/Portfolio/H_Aca - 2.webp"
+      image: images/Portfolio/H_Aca - 2.jpeg
+      image_webp: images/Portfolio/H_Aca - 2.webp
       categories: ["Depto cliente"]
       content: 'Diseño del departamento de nuestro cliente.'
       link: ''
     - name: Decoración recamara
-      image: "/images/Portfolio/H_Aca - 3.jpeg"
-      image_webp: "/images/Portfolio/H_Aca - 3.webp"
+      image: images/Portfolio/H_Aca - 3.jpeg
+      image_webp: images/Portfolio/H_Aca - 3.webp
       categories: ["Depto cliente"]
       content: 'Diseño del departamento de nuestro cliente.'
       link: ''
     - name: Decoración recamara
-      image: "/images/Portfolio/H_Aca - 6.jpeg"
-      image_webp: "/images/Portfolio/H_Aca - 6.webp"
+      image: images/Portfolio/H_Aca - 6.jpeg
+      image_webp: images/Portfolio/H_Aca - 6.webp
       categories: ["Depto cliente"]
       content: 'Diseño del departamento de nuestro cliente.'
       link: ''
     - name: Decoración recamara
-      image: "/images/Portfolio/recamara_principal.jpeg"
-      image_webp: "/images/Portfolio/recamara_principal.webp"
+      image: images/Portfolio/recamara_principal.jpeg
+      image_webp: images/Portfolio/recamara_principal.webp
       categories: ["Depto cliente"]
       content: 'Diseño del departamento de nuestro cliente.'
       link: ''

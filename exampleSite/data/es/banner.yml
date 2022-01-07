@@ -1,7 +1,7 @@
 banner:
   enable: true
-  bg_image_webp: "/images/backgrounds/hero-area.webp"
-  bg_image: "/images/backgrounds/hero-area.png"
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.png
   icon: ''
   title: ''
   content: "TBD administra tu propiedad.\n\nReunión cara a cara con tus huespedes, servicio de limpieza,

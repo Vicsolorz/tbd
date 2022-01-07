@@ -1,7 +1,7 @@
 cta:
   enable: true
-  bg_image: "/images/backgrounds/cta_brg.png"
-  bg_image_webp: "/images/backgrounds/cta_brg.webp"
+  bg_image: images/backgrounds/cta_brg.png
+  bg_image_webp: images/backgrounds/cta_brg.webp
   title: Crece el ingreso de tu propiedad vacacional
   content: 'Administración 100% transparente sin letras pequeñas. Sin pago por adelantado. Nuestra
     comisión por administración de tu inmueble es de 20% incl. IVA!'

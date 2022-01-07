@@ -1,7 +1,7 @@
 feature:
   enable: true
-  image: "/images/about/cleaning_lady.jpg"
-  image_webp: "/images/about/cleaning_lady.webp"
+  image: images/about/cleaning_lady.jpg
+  image_webp: images/about/cleaning_lady.webp
   title: Administramos propiedades de renta vacacional.
   content: '¡Llamando a todos los propietarios! Nuestro servicio de administración
     de rentas vacacionales puede hacerse cargo de tu depa o casa. Coordinando trabajo
