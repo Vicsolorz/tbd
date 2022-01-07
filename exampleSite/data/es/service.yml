@@ -4,8 +4,8 @@ service:
   service_item:
   - name: Un ad de 5 estrellas
     icon: ti-star
-    content: 'Nuestras fotos profesionales optimizadas para Airbnb enseñarán tu propiedad
-      en su mejor luz. '
+    content: 'Fotos profesionales optimizadas para Airbnb y demás plataformas digitales. Mostrarán tu propiedad
+      en su mejor luz.'
   - name: Precios dinámicos
     icon: ti-stats-up
     content: 'Nuestro algoritmo de precios te permite generar hasta un 30% más de
@@ -20,3 +20,8 @@ service:
     content: 'Te proveemos de consejos para asegurar que tu propiedad tenga los estándares
       para recibir tu reservas vacacionales. Cubriendo aspectos como decoración y
       layout. '
+  - name: Seguridad
+    icon: ti-lock
+    content: 'Seguridad en todos los sentidos. Cuidámos de tu departamento y de las cosas dentro de él. 
+      Con nuestra experiencia y operación probada aseguramos que el riesgo a tus cosas sea nulo, si se llega a romper algo 
+      se cobra directamente al huesped. Todas nuestras entradas son aseguradas'

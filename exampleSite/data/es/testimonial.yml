@@ -1,7 +1,7 @@
 testimonial:
   enable: true
-  bg_image: images/backgrounds/bg-testimonial.jpg
-  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  bg_image: ''
+  bg_image_webp: ''
   testimonial_item:
   - name: 'Alana '
     image: ''
@@ -19,12 +19,12 @@ testimonial:
     image: ''
     image_webp: ''
     date: Noc 20, 2020
-    content: 'El equio TBD nunca me ha quedado mal con ninguno de mis pagos. Si tengo
-      dudas del ingreso o costos del mes ellos me explican con muy buenas formas. '
+    content: 'El equipo de TBD nunca me ha quedado mal con ninguno de mis pagos. Si tengo
+      dudas del ingreso o costos del mes ellos me explican super recomendados.'
   - name: Guadalupe
     image: ''
     image_webp: ''
     date: Sep 28, 2021
     content: 'Muy agradecida con el equipo de TBD! En septiembre con el temblor pusieron
       a su grupo de expertos y pudieron reparar mi departamento en muy poco tiempo
-      gracias !  '
+      gracias! Recomendados'

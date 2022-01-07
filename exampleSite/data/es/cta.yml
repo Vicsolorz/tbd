@@ -1,10 +1,10 @@
 cta:
   enable: true
-  bg_image: "/images/cta_brg.png"
-  bg_image_webp: "/images/cta_brg.png"
+  bg_image: "/images/backgrounds/cta_brg.png"
+  bg_image_webp: "/images/backgrounds/cta_brg.webp"
   title: Crece el ingreso de tu propiedad vacacional
-  content: 'No hay tiempo forzoso de nuestro servicio. Sin pago por adelantado. Nuestra
-    comisión por administrar tus entradas 20% incl. IVA! '
+  content: 'Administración 100% transparente sin letras pequeñas. Sin pago por adelantado. Nuestra
+    comisión por administración de 20% incl. IVA!'
   button:
     enable: true
     label: Empieza a trabajar con nosotros!
