@@ -2,75 +2,46 @@
 portfolio:
   enable : true
   title : Our Works
-  portfolio_item :
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+  portfolio_item:
+    - name: Sala de estar con terraza
+      image: "/images/Portfolio/cocina.jpeg"
+      image_webp: 
+      categories: ["Depto cliente"]
+      content: 'Diseño de sala de estar con departamento con terraza.'
+      link: ''
+    - name: Cuarto de visitas
+      image: "/images/Portfolio/estancia.jpeg"
+      image_webp: 
+      categories: ["Depto cliente"]
+      content: Cuarto optimizado para Airbnb
+      link: ''
+    - name: Recamara Principal
+      image: "/images/Portfolio/H_Aca - 1.jpeg"
+      image_webp: ""
+      categories: ["Depto cliente"]
+      content: 'Diseño del departamento de nuestro cliente.'
+      link: ''
+    - name: Estancia
+      image: "/images/Portfolio/H_Aca - 2.jpeg"
+      image_webp: "/images/Portfolio/H_Aca - 2.webp"
+      categories: ["Depto cliente"]
+      content: 'Diseño del departamento de nuestro cliente.'
+      link: ''
+    - name: Decoración recamara
+      image: "/images/Portfolio/H_Aca - 3.jpeg"
+      image_webp: "/images/Portfolio/H_Aca - 3.webp"
+      categories: ["Depto cliente"]
+      content: 'Diseño del departamento de nuestro cliente.'
+      link: ''
+    - name: Decoración recamara
+      image: "/images/Portfolio/H_Aca - 6.jpeg"
+      image_webp: "/images/Portfolio/H_Aca - 6.webp"
+      categories: ["Depto cliente"]
+      content: 'Diseño del departamento de nuestro cliente.'
+      link: ''
+    - name: Decoración recamara
+      image: "/images/Portfolio/recamara_principal.jpeg"
+      image_webp: "/images/Portfolio/recamara_principal.webp"
+      categories: ["Depto cliente"]
+      content: 'Diseño del departamento de nuestro cliente.'
+      link: ''
