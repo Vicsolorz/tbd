@@ -8,10 +8,10 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Vista de Golf N, Granjas del Marqués, 39890 Acapulco de Juárez, Gro."
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Whatsapp: +52 55 3713 2378"
+      info : "Whatsapp: +52-55-3713-2378"
          
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: tbdservicio@gmail.com"
@@ -21,8 +21,8 @@ contact:
   contact_form:
     enable : true
     form_action : "https://formspree.io/f/mgedvdnn" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Tu nombre"
+    email : "Tu email"
+    subject : "Propiedad en:"
+    message : "Forma de contacto (mail, whats, llamda) + ¿Qué información quieres saber?"
+    submit : "Enviar"

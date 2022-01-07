@@ -1,47 +1,53 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : true
-  title : Our Works
+  enable: true
+  title: Cuidamos tu propiedad como nuestra!
   portfolio_item:
-    - name: Sala de estar con terraza
+    - name: Estancia
+      image: images/Portfolio/estancia.jpeg
+      image_webp: images/Portfolio/estancia.webp
+      categories: ["Cliente"]
+      content: 'Estancia'
+      link: ''
+    - name: Estancia
+      image: images/Portfolio/estancia_2.jpeg
+      image_webp: images/Portfolio/estancia_2.webp
+      categories: ["Cliente"]
+      content: 'Estancia'
+      link: ''
+    - name: Estancia
+      image: images/Portfolio/estancia_3.jpeg
+      image_webp: images/Portfolio/estancia_3.webp
+      categories: ["Cliente"]
+      content: 'Estancia'
+      link: ''
+    - name: Recamara
+      image: images/Portfolio/recamara.jpeg
+      image_webp: images/Portfolio/recamara.webp
+      categories: ["Cliente"]
+      content: 'Recamara'
+      link: ''
+    - name: Recamara
+      image: images/Portfolio/recamara_2.jpeg
+      image_webp: images/Portfolio/recamara_2.webp
+      categories: ["Cliente"]
+      content: 'Cliente'
+      link: ''
+    - name: Recamara
+      image: images/Portfolio/recamara_3.jpeg
+      image_webp: images/Portfolio/recamara_3.webp
+      categories: ["Cliente"]
+      content: 'Cliente'
+      link: ''
+    - name: Decoración recamara
       image: images/Portfolio/cocina.jpeg
       image_webp: images/Portfolio/cocina.webp
       categories: ["Depto cliente"]
-      content: 'Diseño de sala de estar con departamento con terraza.'
-      link: ''
-    - name: Cuarto de visitas
-      image: images/Portfolio/estancia.jpeg
-      image_webp: images/Portfolio/estancia.webp
-      categories: ["Depto cliente"]
-      content: Cuarto optimizado para Airbnb
-      link: ''
-    - name: Recamara Principal
-      image: images/Portfolio/H_Aca - 1.jpeg
-      image_webp: images/Portfolio/H_Aca - 1.webp
-      categories: ["Depto cliente"]
-      content: 'Diseño del departamento de nuestro cliente.'
-      link: ''
-    - name: Estancia
-      image: images/Portfolio/H_Aca - 2.jpeg
-      image_webp: images/Portfolio/H_Aca - 2.webp
-      categories: ["Depto cliente"]
-      content: 'Diseño del departamento de nuestro cliente.'
+      content: 'Cliente.'
       link: ''
     - name: Decoración recamara
-      image: images/Portfolio/H_Aca - 3.jpeg
-      image_webp: images/Portfolio/H_Aca - 3.webp
+      image: images/Portfolio/balcon.jpeg
+      image_webp: images/Portfolio/balcon.webp
       categories: ["Depto cliente"]
-      content: 'Diseño del departamento de nuestro cliente.'
-      link: ''
-    - name: Decoración recamara
-      image: images/Portfolio/H_Aca - 6.jpeg
-      image_webp: images/Portfolio/H_Aca - 6.webp
-      categories: ["Depto cliente"]
-      content: 'Diseño del departamento de nuestro cliente.'
-      link: ''
-    - name: Decoración recamara
-      image: images/Portfolio/recamara_principal.jpeg
-      image_webp: images/Portfolio/recamara_principal.webp
-      categories: ["Depto cliente"]
-      content: 'Diseño del departamento de nuestro cliente.'
+      content: 'Cliente.'
       link: ''

@@ -2,30 +2,27 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
+  subtitle : This is not another contact form. As soon as you leave your information, we'll contact you as you like the most, without interruptions in your working hours or leasure time. 
+  content : Leave your information if you are interested in us managing your property.
+  
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Vista de Golf N, Granjas del Marqués, 39890 Acapulco de Juárez, Gro."
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Whatsapp: +52-55-3713-2378"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: tbdservicio@gmail.com"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/mgedvdnn" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
-    subject : "Subject"
-    message : "Message"
+    subject : "Where is your property?"
+    message : "What contact form do you prefer (mail, whats or call) + What info do you need? "
     submit : "Submit"

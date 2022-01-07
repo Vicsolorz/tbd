@@ -3,25 +3,31 @@ feature:
   enable : true
   image: images/about/cleaning_lady.jpg
   image_webp: images/about/cleaning_lady.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We manage vacation rental properties.
+  content : "Calling all owners! Our administration service
+    of vacation rentals can take care of your apartment or house. Coordinating work
+    cleaning, ads and doubts from your guests What are you waiting for? Increase income
+    of your property without you doing the hard work "
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : transparent administration
+      icon : ti-camera # themify icon pack : https://themify.me/themify-icons
+      content : TBD notifies you for each entry to your property. We have no minimum time
+      of our service. Open accounting. We firmly believe that happy customers are with us
+      because they want to be.
+      # feature item loop
+    - title : Meet and greet
+      icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
+      content : Our Concierge are always available to receive your guests,
+      hand over keys and give some recommendations of what to do and what to visit.
+      # feature item loop
+    - title : Professional cleaning service
+      icon : ti-brush # themify icon pack : https://themify.me/themify-icons
+      content : Our cleaning service is performed with hotel and WHO standards.
+      General cleaning of all areas, washing sheets and towels.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Superhost
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : Having an administrator for your property will make you superhost in no time
+      weather. This will increase your income.

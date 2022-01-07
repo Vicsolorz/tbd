@@ -3,25 +3,28 @@ pricing:
   title: Nuestros Planes
   pricing_table:
   - name: Subarrendamiento
-    price: "Conoce tu renta fija mensual en 24hrs"
+    price: "Renta fija mensual"
     unit: Anual
     services:
-    - Despreocupate por un año y asegura tu ingreso. 
+    - Despreocupate por variaciones mensuales !Asegura tu ingreso!
     - Aval de garantía. 
-    - Un mes de despósito de seguridad.
+    - Mes de despósito de seguridad.
     - Mantenimiento y operación de rentas vacacionales.
+    - Más servicios de paquete socios. 
     button:
       label: Más informes
       link: "#contact"
   - name: Socios
     price: "20% incl IVA"
-    unit: mensual
+    unit: mensual sin plazos forzosos
     services:
     - Fotos optimizadas para plataformas.
     - SEO en plataformas.
     - Acceso y plática con huéspdes. 
     - Inventario entrada y salida. 
-    - Algortimo de precios. 
+    - Precios dinámicos. 
+    - Cobro con tarjeta de credito para reserva fuera de las plataformas.
+    - Todas nuestras reservas tienen seguro. 
     button:
       label: Más informes
       link: "#contact"
