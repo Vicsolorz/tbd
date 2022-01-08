@@ -5,15 +5,15 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're safe! 
-    content : You can rest assured to leave your property with us. We take care
+    content : "You can rest assured to leave your property with us. We take care
         of it and We give the best service to your guests so that they recommend us
-        with friends and family.
+        with friends and family."
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
-    content : We understand that this is a business. We seek to maximize your profits. 
+    content : "We understand that this is a business. We seek to maximize your profits. 
         We place your ad on the most used platforms with
-        use of SEO so that you are in the first options also give an amazing service to our guests.
+        use of SEO so that you are in the first options also give an amazing service to our guests."
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Team
-    content : Let our team of professionals guide you in everything there is
-       to manage and maintain your property.
+    content : "Let our team of professionals guide you in everything there is
+       to manage and maintain your property."

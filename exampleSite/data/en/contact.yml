@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : This is not another contact form. As soon as you leave your information, we'll contact you as you like the most, without interruptions in your working hours or leasure time. 
-  content : Leave your information if you are interested in us managing your property.
+  content : "Leave your information if you are interested in us managing your property."
   
   # Contact details
   contact_list:
