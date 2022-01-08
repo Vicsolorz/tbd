@@ -151,7 +151,7 @@ preloader = "images/logo.png"
 
 #cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 # google map
@@ -169,7 +169,7 @@ icon = "ti-facebook"
 link = "#"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/tbd_experiencias/"
 
 ################################ English Language ########################
 [Languages.en]
