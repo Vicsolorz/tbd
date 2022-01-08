@@ -4,10 +4,10 @@ banner:
   bg_image: images/backgrounds/hero-area.png
   icon: ''
   title: ''
-  content: TBD administra tu propiedad.\n\nReunión cara a cara con tus huespedes, servicio de limpieza,
+  content: "TBD administra tu propiedad. \n\nReunión cara a cara con tus huespedes, servicio de limpieza,
     revisión de inventario, optimización de precios y colocación de anuncio.... Ofrecemos
     un amplio servicio para la administración de tus entradas vacacionales. Incrementamos
-    tus ingresos!
+    tus ingresos!"
   button:
     enable: true
     label: Descúbrenos
