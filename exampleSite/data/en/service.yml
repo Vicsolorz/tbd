@@ -6,27 +6,27 @@ service:
     # service item loop
     - name : A 5 stars ad
       icon : ti-star # themify icon pack : https://themify.me/themify-icons
-      content : Professional photos optimized for Airbnb and other digital platforms. They will show your property
-      in its best light.
+      content : "Professional photos optimized for Airbnb and other digital platforms. They will show your property
+      in its best light."
     # service item loop
     - name : Dynamic Pricing
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Our pricing algorithm allows you to generate up to 30% more
-      income either in Airbnb or booking.com
+      content : "Our pricing algorithm allows you to generate up to 30% more
+      income either in Airbnb or booking.com"
     # service item loop
     - name : Airbnb Listing
       icon : ti-layout-media-center-alt # themify icon pack : https://themify.me/themify-icons
-      content : Our set of tips and knowledge of SEO in several platform of
+      content : "Our set of tips and knowledge of SEO in several platform of
       rents allows us to make your listing stand out in Airbnb searches
-      and Booking.com.
+      and Booking.com."
     # service item loop
     - name : Optimization
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : We provide you with tips to ensure that your property meets the standards
-      to receive your rentals. Covering aspects such as decoration, layout, amenieites and quick fix.
+      content : "We provide you with tips to ensure that your property meets the standards
+      to receive your rentals. Covering aspects such as decoration, layout, amenieites and quick fix."
     # service item loop
     - name : Security
       icon : ti-lock # themify icon pack : https://themify.me/themify-icons
-      content : Security in every way. We take care of your department and the things within.
+      content : "Security in every way. We take care of your department and the things within.
       With our experience and proven operation we ensure that the risk to your things is zero, if something breaks
-      it is charged directly to the guest. All our rentals are insured'
+      it is charged directly to the guest. All our rentals are insured"
