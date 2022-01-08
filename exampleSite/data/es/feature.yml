@@ -2,26 +2,29 @@ feature:
   enable: true
   image: images/about/cleaning_lady.jpg
   image_webp: images/about/cleaning_lady.webp 
-  title: Administramos propiedades de renta vacacional.
-  content: '¡Llamando a todos los propietarios! Nuestro servicio de administración
+
+  - title: Administramos propiedades de renta vacacional.
+    content: "¡Llamando a todos los propietarios! Nuestro servicio de administración
     de rentas vacacionales puede hacerse cargo de tu depa o casa. Coordinando trabajo
     de limpieza, ads y dudas de tús huespedes ¿Que esperas?  Incrementa el ingreso
-    de tu propiedad sin que hagas el trabajo duro'
+    de tu propiedad sin que hagas el trabajo duro"
+  
   feature_item:
   - title: Administración transparente
     icon: ti-camera
-    content: 'TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
-      de nuestro servicio. Contabilidad abierta. Creemos firmemente que clientes contentos están con nostros
-      por que quieren estar.'
+    content: "TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
+        de nuestro servicio. Contabilidad abierta. Creemos firmemente que clientes contentos están con nostros
+        por que quieren estar."
+
   - title: Reunión cara a cara
     icon: ti-map-alt
-    content: Nuestros Concierge están siempre disponible para recibir a tus huespedes,
-      entregar llaves y dar algunas recomendaciones de que hacer y/o que visitar. 
+    content: "Nuestros Concierge están siempre disponible para recibir a tus huespedes,
+      entregar llaves y dar algunas recomendaciones de que hacer y/o que visitar."
   - title: Servicio de Limpieza profesionales
     icon: ti-brush
-    content: Nuestro servicio de limpieza es realizado con estándares de hotelería y estándares de la OMS.
-      Limpieza general de todas las zonas, lavado de sabanas y toallas.
+    content: "Nuestro servicio de limpieza es realizado con estándares de hotelería y estándares de la OMS.
+      Limpieza general de todas las zonas, lavado de sabanas y toallas."
   - title: Superhost
     icon: ti-crown
-    content: Tener un administrador para tu propiedad te hará superhost en muy poco
-      tiempo. Esto hará que tu ingreso incremente.
+    content: "Tener un administrador para tu propiedad te hará superhost en muy poco
+      tiempo. Esto hará que tu ingreso incremente."
