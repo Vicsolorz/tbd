@@ -54,16 +54,6 @@ url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
 weight = 6
@@ -84,16 +74,6 @@ weight = 2
 name = "Nuestros clientes"
 url = "#portfolio"
 weight = 3
-
-[[Languages.es.menu.main]]
-name = "Equipo"
-url = "#team"
-weight = 4
-
-[[Languages.es.menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 5
 
 [[Languages.es.menu.main]]
 name = "Contáctanos"
@@ -166,10 +146,10 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://wa.me/message/LPYDWXMLMZTAI1"
 [[params.social]]
 icon = "ti-instagram"
-link = "https://www.instagram.com/tbd_experiencias/"
+link = "https://www.instagram.com/tbdhost/"
 
 ################################ English Language ########################
 [Languages.en]
