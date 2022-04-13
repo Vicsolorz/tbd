@@ -3,12 +3,11 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.png
   icon: ''
-  title: ''
-  content: "TBD administra tu propiedad en Acapulco. \n\nReunión cara a cara con tus huespedes, servicio de limpieza,
-    revisión de inventario, optimización de precios y colocación de anuncio.... Ofrecemos
-    un amplio servicio para la administración de tus entradas vacacionales. Incrementamos
-    tus ingresos!"
+  title: 'ALTA HOSPITALIDAD'
+  content: 
+   " Pon tu propiedad en manos de TBD. Deja que los profesionales 
+   nos hagamos cargo "
   button:
     enable: true
-    label: Descúbrenos
+    label: Hablémos de lo que quiéres
     link: "#services"

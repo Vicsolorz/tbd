@@ -8,7 +8,6 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 
-/* #353b43 color of html */
 html {
   background-color: #353b43;
   color: #737f8a;
@@ -447,7 +446,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.12);
   position: absolute;
   top: 0;
   right: 0;
