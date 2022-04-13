@@ -7,8 +7,10 @@ Version: 1.3
 Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive, html5, css3
 */
 /*=== MEDIA QUERY ===*/
+
+/* #353b43 color of html */
 html {
-  background-color: #353b43;
+  background-color: #ffffff;
   color: #737f8a;
 }
 
