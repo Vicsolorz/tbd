@@ -1,7 +1,7 @@
 feature:
   enable: true
-  image: images/about/cleaning_lady.jpg
-  image_webp: images/about/cleaning_lady.webp 
+  image: exampleSite/static/images/about/cleaning_lady.jpg
+  image_webp: exampleSite/static/images/about/cleaning_lady.webp
   title: "Administramos propiedades de renta vacacional."
   content: "¡Llamando a todos los propietarios! Nuestro servicio de administración
     de rentas vacacionales puede hacerse cargo de tu depa o casa. Coordinando trabajo
@@ -11,8 +11,8 @@ feature:
   - title: Administración transparente
     icon: ti-camera
     content: "TBD te notifica por cada entrada a tu propiedad. No tenemos tiempo mínimo
-        de nuestro servicio. Contabilidad abierta. Creemos firmemente que clientes contentos están con nostros
-        por que quieren estar."
+    de nuestro servicio. Contabilidad abierta. Creemos firmemente que clientes contentos están con nostros
+    por que quieren estar."
 
   - title: Reunión cara a cara
     icon: ti-map-alt
