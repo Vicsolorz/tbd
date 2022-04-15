@@ -16,7 +16,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #000000;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -28,7 +28,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #6b839a;
 }
 
 p {
@@ -509,7 +509,7 @@ a:hover {
   padding: 14px 50px;
   font-size: 18px;
   font-weight : 350;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   letter-spacing: 1px;
 }
@@ -606,14 +606,14 @@ a:hover {
 
 .about .block .icon-box:before {
   top: -56.5685px;
-  border-top: 2px solid rgba(236, 239, 241, 0.07);
-  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  border-top: 2px solid rgb(0 0 0 / 63%);
+  border-right: 2px solid rgb(0 0 0 / 63%);
 }
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solid rgb(0 0 0 / 63%);
+  border-left: 2px solid rgb(0 0 0 / 63%);
 }
 
 .about .block .icon-box h3 {
