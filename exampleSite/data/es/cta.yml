@@ -2,10 +2,9 @@ cta:
   enable: true
   bg_image: images/backgrounds/pexels-viridiana-ortiz-11556639.jpg
   bg_image_webp: images/backgrounds/pexels-viridiana-ortiz-11556639.webp
-  title: Crece el ingreso de tu propiedad vacacional
-  content: 'Administración 100% transparente sin letras pequeñas. Sin pago por adelantado. Nuestra
-    comisión por administración de tu inmueble es de 20% incl. IVA!'
+  title: INCREMENTA EL INGRESO DE TU PROPIEDAD
+  content: 'Visitamos, Evaluamos y Proponemos así de facil'
   button:
     enable: true
-    label: Empieza a trabajar con nosotros!
+    label: Tus socios comerciales
     link: "#contact"
