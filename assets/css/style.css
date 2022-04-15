@@ -43,6 +43,14 @@ pre {
   color: #afbac4;
 }
 
+.col-lg-6{
+  background-color: #ffffff;
+}
+
+.content-block{
+  background-color: #ffffff;
+}
+
 /*=================================================================
   Basic Setup
 ==================================================================*/
@@ -475,7 +483,7 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 65px;
+  font-size: 45px;
   color: #ffffff;
   text-transform: capitalize;
   font-weight: 700;
@@ -489,8 +497,8 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #1d2226;
-  font-size: 20px;
+  color: #134451;
+  font-size: 22px;
   width: 70%;
   margin: 0 auto;
 }
