@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : images/backgrounds/cta_brg.png
-  bg_image_webp : images/backgrounds/cta_brg.webp
+  bg_image : images/backgrounds/pexels-viridiana-ortiz-11556639.jpg
+  bg_image_webp : images/backgrounds/pexels-viridiana-ortiz-11556639.webp
   title : Increase the income of your vacation property
   content : "100% transparent administration without fine print. No advance payment. Our
     commission for the administration of your property is 20% incl. VAT!"
