@@ -44,7 +44,7 @@ pre {
 }
 
 .col-lg-6{
-  background-color: #657c87;
+  background-color: #ffffff;
 }
 
 .content-block{
@@ -312,7 +312,7 @@ a:hover {
 .title h2 {
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 20px;
   color: #f8f8f8;
 }
 
@@ -706,7 +706,7 @@ a:hover {
 }
 
 .form-meghna .form-control {
-  background-color: transparent;
+  background-color: #000000de;
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
