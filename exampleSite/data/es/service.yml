@@ -1,27 +1,20 @@
 service:
   enable: true
-  title: Nuestros Servicios
+  title: Nuestro Proceso
   service_item:
-  - name: Un ad de 5 estrellas
-    icon: ti-star
-    content: 'Fotos profesionales optimizadas para Airbnb y demás plataformas digitales. Mostrarán tu propiedad
-      en su mejor luz.'
-  - name: Precios dinámicos
-    icon: ti-stats-up
-    content: 'Nuestro algoritmo de precios te permite generar hasta un 30% más de
-      ingreso ya sea en Airbnb o booking '
-  - name: Airbnb Listing
-    icon: ti-layout-media-center-alt
-    content: Nuestro conjunto de tips y conocimiento de SEO de las plataformas de
-      rentas nos permite hacer que tu anuncio resalte dentro de las busquedas de Airbnb
-      y Booking.com
-  - name: Optimización
-    icon: ti-palette
-    content: 'Te proveemos de consejos para asegurar que tu propiedad tenga los estándares
-      para recibir tu reservas vacacionales. Cubriendo aspectos como decoración y
-      layout. '
+  - name: Cita para ver el inmueble
+    icon: ti-calendar
+    content: 'Primero queremos saber sobre ti, lo que esperas y tu propiedad. Agenda una llamada para una visita a tu imueble'
+  - name: Recomendaciones
+    icon: ti-wand
+    content: 'De acuerdo a la visita, mercado y si aplica, te haremos saber que es lo que hace falta a tu propiedad para alcanzar un estándar de renta'
+  - name: Propuesta económica
+    icon: ti-email
+    content: "Te presentaremos la inversión inicial si existiera y el monto de renta fija al mes"
+  - name: Manos a la obra
+    icon: ti-paint-roller
+    content: "Acordamos el día de inicio de operación. Ejecutamos las mejoras acordadas previamente y comenzamos a operar tu propiedad"
   - name: Seguridad
     icon: ti-lock
     content: 'Seguridad en todos los sentidos. Cuidámos de tu departamento y de las cosas dentro de él. 
-      Con nuestra experiencia y operación probada aseguramos que el riesgo a tus cosas sea nulo, si se llega a romper algo 
-      se cobra directamente al huesped. Todas nuestras entradas son aseguradas'
+      Con nuestra experiencia y operación probada aseguramos que el riesgo a tus cosas sea nulo. Todas nuestras entradas están aseguradas'
