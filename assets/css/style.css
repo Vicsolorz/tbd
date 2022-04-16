@@ -228,10 +228,11 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
-  color: #fff;
+  background: #87e4e58a;
+  color: #000;
   display: inline-block;
   font-size: 14px;
+  font-weight: 600;
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
@@ -654,16 +655,18 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #ffffff;
 }
 
 .call-to-action p {
-  font-size: 16px;
-  color: #666;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 700;
 }
 
 .call-to-action .btn-main {
   margin-top: 20px;
+
 }
 
 /*=================================================================
