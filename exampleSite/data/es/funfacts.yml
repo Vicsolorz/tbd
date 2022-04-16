@@ -1,14 +1,14 @@
 funfacts:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: images/backgrounds/pexels-ali-alcántara-11447569.jpg
+  bg_image_webp: images/backgrounds/pexels-ali-alcántara-11447569.webp
   counter_item:
   - title: Propietarios contentos
     icon: ti-face-smile
-    count: "28"
+    count: "36"
   - title: Huesped recibidos 
     icon: ti-heart
-    count: "315"
+    count: "875"
   - title: Retroalimentación positiva
     icon: ti-thumb-up
-    count: "309"
+    count: "595"
