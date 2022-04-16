@@ -1,6 +1,6 @@
 portfolio:
   enable: true
-  title: Cuidamos tu propiedad como nuestra!
+  title: Ve algunos clientes
   portfolio_item:
     - name: Estancia
       image: images/Portfolio/estancia.jpeg
