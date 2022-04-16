@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Ponte en contacto con nosotros
-  subtitle : Esta no es otra forma de contacto más. Tan pronto nos dejes tus datos te contactaremos como a ti más te guste, sin interrupciones en tu horario laboral. 
-  content : Déja tus datos si te encuentras interesado que administremos tu propiedad.
+  title : Contáctanos en el chat, agenda tu cita o llena el formulario como sea te atendemos. 
+  subtitle :  
+  content : Déjanos tus datos. 
 
   # Contact details
   contact_list:
