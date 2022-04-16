@@ -1,5 +1,5 @@
 pricing:
-  enable: true
+  enable: false
   title: Nuestros Planes
   pricing_table:
   - name: Subarrendamiento
