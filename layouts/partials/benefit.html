@@ -1,3 +1,10 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.benefit.benefit.enable }}
+{{ with $data.benefit.benefit }}
+
+{{"<!-- Welcome Slider-->" | safeHTML}}
+
 <section color="#fff" class="seccion_benefits">
     <h4 color="#fff" font-size="[object Object]" font-weight="300" font-family="GothamBold" class="typography__TitleComponent-sc-1l2kx9v-0 EdMXU">TBDHost te ayuda </h4>
     <div class="styles__MetricsContainer-sc-1gerrcp-0 dxSgAb">
