@@ -322,6 +322,18 @@ a:hover {
   padding:  8rem 0px;
 }
 
+.dxSgAb{
+  margin: 4rem 0px;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+seccion_benefits{
+
+}
+
 .kpEcPO{
   margin: 0px;
   font-size: 1.8rem;
