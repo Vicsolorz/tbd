@@ -546,8 +546,9 @@ seccion_benefits{
 
 .hero-area .block p {
   color: #134451;
+  background-color: white;
   font-size: 22px;
-  width: 100%;
+  width: 70%;
   margin: 0 auto;
 }
 
