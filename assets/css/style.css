@@ -124,7 +124,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #64656585;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -534,7 +534,7 @@ seccion_benefits{
   font-size: 50px;
   color: #ffffff;
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 20px;
 }
 
@@ -546,7 +546,7 @@ seccion_benefits{
 
 .hero-area .block p {
   color: #134451;
-  background-color: white;
+  background-color: #ffffff8c;
   font-size: 22px;
   width: 70%;
   margin: 0 auto;
