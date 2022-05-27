@@ -107,6 +107,12 @@ a:hover {
   margin-bottom: 50px;
 }
 
+.block em{
+  font-weight: 400;
+  font-family: quattrocento sans,sans-serif;
+  color: #6b839a;
+}
+
 .btn {
   background-color:rgb(109, 166, 246);
   color: #fff;
