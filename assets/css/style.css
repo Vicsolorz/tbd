@@ -117,7 +117,7 @@ a:hover {
   background-color:rgb(109, 166, 246);
   color: #fff;
   padding: 10px 30px;
-  border-radius: 0;
+  border-radius: 50px;
   transition: all .3s ease-in 0s;
 }
 
