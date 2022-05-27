@@ -1,14 +1,14 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contáctanos en el chat, agenda tu cita o llena el formulario como sea te atendemos. 
+  title : Contáctanos por chat, whats o agenda tu cita con mucho gusto te atendemos.
   subtitle :  
-  content : Déjanos tus datos. 
+  content : ¿Quieres que te contactemos? Déjanos tus datos. 
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Vista de Golf N, Granjas del Marqués, 39890 Acapulco de Juárez, Gro."
+    - icon : ""
+      info : ""
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Whatsapp: +52-55-3713-2378"
@@ -21,8 +21,8 @@ contact:
   contact_form:
     enable : true
     form_action : "https://formspree.io/f/mgedvdnn" #contact form works with https://formspree.io
-    name : "Tu nombre"
-    email : "Tu email"
-    subject : "Propiedad en:"
+    name : "Nombre"
+    email : "@: "
+    subject : "¿Cómo te podemos servir?"
     message : "Forma de contacto (mail, whats, llamda) + ¿Qué información quieres saber?"
     submit : "Enviar"

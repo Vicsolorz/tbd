@@ -1,10 +1,10 @@
 cta:
   enable: true
-  bg_image: images/backgrounds/pexels-viridiana-ortiz-11556639.jpg
-  bg_image_webp: images/backgrounds/pexels-viridiana-ortiz-11556639.webp
+  bg_image: ''
+  bg_image_webp: ''
   title: INCREMENTA EL INGRESO DE TU PROPIEDAD
-  content: 'Visitamos, Evaluamos y Proponemos así de facil'
+  content: 'Inventario fisico, Reglas de acceso, Sesión fotográfica, configuración de cuentas'
   button:
     enable: true
-    label: Tus socios comerciales
-    link: "#contact"
+    label: CONÓCENOS
+    link: "https://booking.setmore.com/scheduleappointment/5c9b0fe8-cbca-47fb-ae5d-a62b1ffe6dc8"

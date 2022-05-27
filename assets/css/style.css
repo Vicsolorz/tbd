@@ -229,7 +229,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #87e4e58a;
+  background: #fff;
   color: #000;
   display: inline-block;
   font-size: 14px;
@@ -237,6 +237,7 @@ a:hover {
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
+  border-radius: 50px;
 }
 
 .btn-main:hover {
@@ -390,7 +391,7 @@ seccion_benefits{
 
 .overly:before {
   content: '';
-  background: rgba(0, 0, 0, 0.096);
+  background: rgb(3 54 126);
   position: absolute;
   top: 0;
   right: 0;
@@ -503,7 +504,7 @@ seccion_benefits{
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.25);
+  background: rgb(255 255 255);
   position: absolute;
   top: 0;
   right: 0;
@@ -532,10 +533,8 @@ seccion_benefits{
 }
 
 .hero-area .block h1 {
-  font-size: 50px;
-  color: #ffffff;
-  text-transform: capitalize;
-  font-weight: 600;
+  font-size: 44px;
+  color: black;
   margin-bottom: 20px;
 }
 
@@ -555,7 +554,7 @@ seccion_benefits{
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #fff;
+  border-color: rgb(109, 166, 246);
   padding: 14px 50px;
   font-size: 18px;
   font-weight : 350;
@@ -755,6 +754,7 @@ seccion_benefits{
   margin-bottom: 60px;
 }
 
+
 .form-meghna .form-control {
   background-color: #000000de;
   border-radius: 0;
@@ -836,7 +836,8 @@ seccion_benefits{
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #f4f5f596;
+  color:white;
+  background: ##f4f5f530;
 }
 
 .counters-item i {
@@ -854,6 +855,7 @@ seccion_benefits{
 
 .counters-item h3 {
   font-size: 20px;
+  color:#f5f4f4d4;
   margin: 0;
 }
 
@@ -1176,7 +1178,7 @@ seccion_benefits{
   Testimonial section
 ==================================================================*/
 .testimonial:before {
-  background: rgba(42, 48, 55, 0.7);
+  background: rgb(251 251 251);
 }
 
 .client-info {
@@ -1191,7 +1193,7 @@ seccion_benefits{
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: ##3b3b3cd6;
   font-size: 18px;
 }
 
@@ -1208,6 +1210,7 @@ seccion_benefits{
 
 .client-meta h3 {
   margin: 15px 0 5px .0;
+  color:black;
 }
 
 .client-meta span {

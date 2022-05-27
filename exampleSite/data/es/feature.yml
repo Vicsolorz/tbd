@@ -2,25 +2,19 @@ feature:
   enable: true
   image: images/about/cleaning_lady.jpg
   image_webp: images/about/cleaning_lady.webp
-  title: "Administramos tu propiedad para renta vacacional."
-  content: "Admnistramos tu aribnb para renta vacacionales de corta estancia < 30 noches. 
-    Coordinamos trabajo de limpieza, servicio de frontdesk con tus huéspedes, SEO en plataformas como Airbnb, Verbo y Booking 
-    ¿Que esperas?  Incrementa el ingreso
-    de tu propiedad sin que se convierta en un doble trabajo"
+  title: "Adminitramos tu propiedad para renta vacacional"
+  content: "Admnistramos tu propiedad para rentas vacacionales. Coordinamos los trabajos de limpieza, servicio de frontdesk 24/7 con tus huéspedes, SEO en plataformas como Airbnb, Vrbo y Booking.com"
   feature_item:
-  - title: Cuidamos cada aspecto de tu propiedad.
+  - title: El anuncio que tu propiedad se merece.
     icon: ti-camera
-    content: "TBD acuerda con el propietario un monto fijo mensual y un plazo fijo para la adiminitración de tu propiedad.
-    Cuidando en todo momento el inmueble y mueble de su propiedad"
+    content: "Creamos el anuncio perfecto para tu propiedad. Te mandamos fotografos profesionales que muestren la escencia de tu lugar y que inviten al huesped a pasar un buen tiempo."
 
-  - title: Protegidos contra todo. 
-    icon: ti-map-alt
-    content: "Todas nuestras rentas están protegidas para cubrir cualquier desperfecto causado por los huéspedes"
-  - title: Servicio de Limpieza profesionales
-    icon: ti-brush
-    content: "Nuestro equipo de limpieza realiza su trabajo con estándares de la industria hotelera. 
-    Limpieza general en todas las áreas, lavado de sabanas y toallas."
+  - title: Estrategía de precios inteligentes. 
+    icon: ti-money
+    content: "Hacemos un análisis de precios para asegurar que tu propiedad siempre este a precios competitivos"
+  - title: Estas al pendiente de todo
+    icon: ti-eye
+    content: "Forma parte de nuestro anuncio de co anfitriones donde puedes enterarte de todo lo que pasa en tu propiedad."
   - title: Superhost
     icon: ti-crown
-    content: "Tener un administrador para tu propiedad te hará superhost en muy poco
-      tiempo. Esto hará que tu ingreso incremente."
+    content: "Tener un administrador para tu propiedad te hará superhost en muy poco tiempo. Esto hará que tu ingreso incremente."

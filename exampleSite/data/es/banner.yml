@@ -3,11 +3,10 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.png
   icon: ''
-  title: 'ALTA HOSPITALIDAD'
+  title: 'Administramos tu propiedad'
   content: 
-   " Pon tu propiedad en manos de TBDHost. Deja que los profesionales 
-   se hagan cargo y adquiere tu propio Frontdesk"
+   "Genera más reservas en tu propiedad. Nosotros te ayudamos con el trabajo administrativo y coordinamos a tus equipos de confianza."
   button:
     enable: true
-    label: Hablémos de lo que quiéres
-    link: "#services"
+    label: Platica con nosotros
+    link: "https://booking.setmore.com/scheduleappointment/5c9b0fe8-cbca-47fb-ae5d-a62b1ffe6dc8"

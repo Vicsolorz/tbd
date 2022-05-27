@@ -8,11 +8,11 @@
 		<div class="row">
 			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
 				<!-- this image is for trigger this section fallback background image -->
-				<img src="{{ .image_webp | absURL }}" loading="lazy" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				<img src="{{ .image_webp | absURL }}" loading="lazy" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" load="lazy">
 			</div>
 			<div class="col-lg-6">
 				<div class="content-block">
-					<h2>{{ .title | markdownify }}</h2>
+					<h1>{{ .title | markdownify }}</h1>
 					<p>{{ .content | markdownify }}</p>
 					<div class="row">
 						{{ range .feature_item }}
@@ -24,7 +24,7 @@
 								</div>
 								{{ end }}
 								<div class="media-body">
-									<h4 class="media-heading">{{ .title | markdownify }}</h4>
+									<h3 class="media-heading">{{ .title | markdownify }}</h3>
 									<p>{{ .content | markdownify }}</p>
 								</div>
 							</div>

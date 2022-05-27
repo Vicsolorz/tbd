@@ -1,5 +1,5 @@
 about:
-  enable: true
+  enable: false
   title: Nuestros Valores
   about_item:
     - icon: ti-ruler-pencil

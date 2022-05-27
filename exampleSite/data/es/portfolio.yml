@@ -1,5 +1,5 @@
 portfolio:
-  enable: true
+  enable: false
   title: Ve algunos clientes
   portfolio_item:
     - name: Estancia

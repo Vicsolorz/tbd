@@ -2,19 +2,18 @@ service:
   enable: true
   title: Nuestro Proceso
   service_item:
-  - name: Cita para ver el inmueble
+  - name: Nos conocemos
     icon: ti-calendar
-    content: 'Primero queremos saber sobre ti, lo que esperas y tu propiedad. Agenda una llamada para una visita a tu imueble'
-  - name: Recomendaciones
+    content: 'Te explicamos en que cosiste nuestro servicio. Aprendemos sobre tu propiedad y las reglas que quieres en ella.'
+  - name: HACEMOS MAGIA
     icon: ti-wand
-    content: 'De acuerdo a la visita, mercado y si aplica, te haremos saber que es lo que hace falta a tu propiedad para alcanzar un estándar de renta'
-  - name: Propuesta económica
-    icon: ti-email
-    content: "Te presentaremos la inversión inicial si existiera y el monto de renta fija al mes"
+    content: 'Realizamos los acuerdos y nos ponemos a trabajar en tu anuncio coordinamos la toma de fotografias.'
+  - name: Configuración
+    icon: ti-tablet
+    content: "Trabajamos en tu portal y conectamos tus cuentas bancarias para que todo nuestro servicio sea transparente"
   - name: Manos a la obra
     icon: ti-paint-roller
-    content: "Acordamos el día de inicio de operación. Ejecutamos las mejoras acordadas previamente y comenzamos a operar tu propiedad"
+    content: "Tu anuncio estará publicado en nuestra plataforma y listo para ser reservado. Todas las interacciones las podrás revisar."
   - name: Seguridad
     icon: ti-lock
-    content: 'Seguridad en todos los sentidos. Cuidámos de tu departamento y de las cosas dentro de él. 
-      Con nuestra experiencia y operación probada aseguramos que el riesgo a tus cosas sea nulo. Todas nuestras entradas están aseguradas'
+    content: 'Todas tus rentas cuentan con protección por parte de las plataformas hasta 1 MUSD. Asesoramos al personal de limpieza y coordinamos que las salidas sean sin daño a los muebles.'
