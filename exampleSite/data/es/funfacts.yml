@@ -1,7 +1,7 @@
 funfacts:
   enable: true
-  bg_image: images/backgrounds/pexels-ali-alcántara-11447569.jpg
-  bg_image_webp: images/backgrounds/pexels-ali-alcántara-11447569.webp
+  bg_image: ""
+  bg_image_webp: ""
   counter_item:
   - title: Propietarios contentos
     icon: ti-face-smile
