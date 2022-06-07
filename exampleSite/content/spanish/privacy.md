@@ -1,6 +1,8 @@
 ---
  image_webp: " " 
+ date: 2022-06-07T10:28:36+06:00
  author: TBD_Team
+ description : "Politica de privacidad TBDHost"
 ---
 
 **Politica de privacidad de datos de TBD**
