@@ -1282,11 +1282,12 @@ seccion_benefits{
 }
 
 .post-block {
-  background-color: #292F36;
+  background-color: #fff;
   margin-bottom: 10px;
 }
 
 .post-block .content {
+  text-align: center;
   padding: 20px;
 }
 
@@ -1313,6 +1314,10 @@ seccion_benefits{
 
 #blog{
   background-color: #03367e;
+}
+
+.h2post{
+  color: #fff;
 }
 
 /*=================================================================
