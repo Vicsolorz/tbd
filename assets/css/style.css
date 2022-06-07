@@ -311,7 +311,7 @@ a:hover {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 20px;
-  color: #ffffff;
+  color: #a19d9d;
 }
 
 .gfNUNj{
@@ -1316,8 +1316,8 @@ seccion_benefits{
   background-color: #03367e;
 }
 
-.h2post{
-  color: #fff;
+.h2post h2{
+  color: #ffffff;
 }
 
 /*=================================================================
