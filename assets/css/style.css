@@ -65,8 +65,9 @@ figure {
 }
 
 a {
-  color: #000;
+  color: #663366;
   transition: all .3s ease-in 0s;
+  text-decoration: underline;
 }
 
 iframe {

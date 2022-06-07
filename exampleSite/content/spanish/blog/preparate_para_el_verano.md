@@ -1,6 +1,6 @@
 ---
 title: "Prepara tu propiedad para el verano"
-date: 2021-06-07T10:28:36+06:00
+date: 2022-06-07T10:28:36+06:00
 image_webp: /Users/victorsoplat/Documents/2022/TBD/Website/Hugo_template/TBD/themes/meghna-hugo/images/Blogimages/verano.webp
 image: images/Blogimages/verano.jpg
 author: Elizabeth Hernandez
