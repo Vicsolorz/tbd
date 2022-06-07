@@ -1,5 +1,5 @@
 ---
-title: "Prepara tu **Airbnb** para el verano"
+title: "Prepara tu Airbnb para el verano"
 date: 2022-06-07T10:28:36+06:00
 image_webp: exampleSite/static/images/Blogimages/verano.webp
 image: images/Blogimages/verano.jpg
@@ -7,17 +7,19 @@ author: Elizabeth Hernandez
 description : "Prepara tu propiedad para el verano"
 ---
 
-El verano ya esta a la vuelta de la esquina y en [TBDHost][1] estamos muy emocionado y agradecidos de recibir la siguiente epoca de vacaciones. Para esto quisimos escribir estas recomendaciones y tips para que tu propiedad cuente con todo lo necesario para tus huéspedes y tengan reseñas de 5 estrellas.   
+El verano ya esta a la vuelta de la esquina y en [TBDHost][1] estamos muy emocionado y agradecidos de recibir la siguiente epoca de vacaciones. Por esto quisimos escribir estas recomendaciones y tips para que tu propiedad cuente con todo lo necesario para tus huéspedes y tengas reseñas de 5 estrellas.   
 
 Antes de entrar al asusnto queremos explicar el sentir de mucho de nosotros. Estamos terminando un periodo muy difícil donde mucho de nosotros estuvimos en un encierro debido al COVID. Ten por seguro que la gente va a querer viajar y disfrutar de un excelente tiempo. Por eso te decimos **como preparar tu propiedad para las rentas cortas**  
 
 > La descripción en tu anuncio es muy importante para su experiencia de tu huesped. Describe lo más parecido a la realidad tu espacio. 
 
 **1.Mantenimiento de tu espacio**
+
   Ahora es el tiempo para realizar los pequeños mantenimientos que solemos dejar. Sea donde este tu propiedad en la ciudad, bosque o playa. Tenemos que preparar las propieades para la llegada de nuestros huespedes y que disfruten de lo nuevo. Como puede ser nuevos accesorios en los baños, una pared pintada, una nueva TV o nuevos juegos de mesa. Ellos te lo van agradecer.   
 
 **2. Revisa tus fotos y descripciones en las plataformas**
-  Debes de estar en estas plataformas *airbnb*, *vrbo* y *booking.com*
+
+    Las plataformas en las que debes considerar son: *airbnb*, *vrbo* y *booking.com*
 
   En estas procura actualizar fotos de tus espacios que no se vean modernas o con las tendencias actuales. Recuerda menos es mas.Dale un refresh a tu anuncio. Ve lo que otros anfitriones están describiendo de sus propiedades ¿Qué es lo que más te gustaría resaltar en tu espacio? 
   Recuerda que de la vista nace el amor. 
@@ -27,6 +29,7 @@ Antes de entrar al asusnto queremos explicar el sentir de mucho de nosotros. Est
 >Una sala es solo una sala una sala con una manta es una invitación a leer o estar con amigos.
 
 **3. Esta al pendiente del servicio** 
+
   Hoy en día el trabajo es 24/7 tenemos solo momentos después de las 7pm o muy temprano para planear viajes con familia o amigos.
   Esta al pendiente de estas horas ya que es cuando más requerimientos vas a recibir. Un viajero promedio esperara de 1 a 2 min antes de pasar y buscar otra propiedad. Al igual la probabilidad de reserva sube si contestas dentro del primer minuto. 
 
