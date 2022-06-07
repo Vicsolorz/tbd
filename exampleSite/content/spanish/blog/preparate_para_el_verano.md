@@ -14,15 +14,15 @@ Antes de entrar al asusnto queremos explicar el sentir de mucho de nosotros. Est
 > La descripción en tu anuncio es muy importante para su experiencia de tu huesped. Describe lo más parecido a la realidad tu espacio. 
 
 **1.Mantenimiento de tu espacio**
-Ahora es el tiempo para realizar los pequeños mantenimientos que solemos dejar. Sea donde este tu propiedad en la ciudad, bosque o playa. Tenemos que preparar las propieades para la llegada de nuestros huespedes y que disfruten de lo nuevo. Como puede ser nuevos accesorios en los baños, una pared pintada, una nueva TV o nuevos juegos de mesa. Ellos te lo van agradecer.   
+  Ahora es el tiempo para realizar los pequeños mantenimientos que solemos dejar. Sea donde este tu propiedad en la ciudad, bosque o playa. Tenemos que preparar las propieades para la llegada de nuestros huespedes y que disfruten de lo nuevo. Como puede ser nuevos accesorios en los baños, una pared pintada, una nueva TV o nuevos juegos de mesa. Ellos te lo van agradecer.   
 
 **2. Revisa tus fotos y descripciones en las plataformas**
-Debes de estar en estas plataformas *airbnb*, *vrbo* y *booking.com*
+  Debes de estar en estas plataformas *airbnb*, *vrbo* y *booking.com*
 
-En estas procura actualizar fotos de tus espacios que no se vean modernas o con las tendencias actuales. Recuerda menos es mas.Dale un refresh a tu anuncio. Ve lo que otros anfitriones están describiendo de sus propiedades ¿Qué es lo que más te gustaría resaltar en tu espacio? 
-Recuerda que de la vista nace el amor. 
+  En estas procura actualizar fotos de tus espacios que no se vean modernas o con las tendencias actuales. Recuerda menos es mas.Dale un refresh a tu anuncio. Ve lo que otros anfitriones están describiendo de sus propiedades ¿Qué es lo que más te gustaría resaltar en tu espacio? 
+  Recuerda que de la vista nace el amor. 
 
-Procura vestir e invitar a las personas a estar en tu espacio.
+  Procura vestir e invitar a las personas a estar en tu espacio.
 
 >Una sala es solo una sala una sala con una manta es una invitación a leer o estar con amigos.
 
