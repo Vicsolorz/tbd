@@ -1,5 +1,5 @@
 ---
- image_webp: " " 
+ image: exampleSite/static/images/logo.png 
  date: 2022-06-07T10:28:36+06:00
  author: TBD_Team
  description : "Politica de privacidad TBDHost"
