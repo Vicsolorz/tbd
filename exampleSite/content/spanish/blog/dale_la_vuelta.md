@@ -35,7 +35,7 @@ La respuesta corta es No. Casí cualquier respuesta de bienes inmuebles es Ubica
 
 ### A continuación trataremos algunas inquietudes que neustros clientes nos hacen: 
 
-## Tengo una propiedad pero me da miedo que la dañen si la pongo a renta. 
+### Tengo una propiedad pero me da miedo que la dañen si la pongo a renta. 
 
 Este punto nos lo comentan bastante nuestros cliente y es para preocuparse por que muchas de las propiedades que se quieren convertir de un modelo de negocio a otro tienen muebles de lujo para disfrutarse y no para rentarse.
 
@@ -49,7 +49,7 @@ Otra recomendación que hacemos a nuestros clientes que quieren cambiar de model
 Hay muy buenas opciones de [Salas][3], [TV][4] y [Refrigeradores][5] que cumplen con su objetivo y dan muy buen servicio al huésped. 
 Otro de nuestros consejos favoritos es que menos es más y esto aplica en rentas cortas. Entre menos cosas hay en el departamento menos cosas pueden robarse o usarse ¿Pero que pasa cuando yo quiero usar mi espacio? Primero defina bien que cosas y servicios quiere mantener. Si puede hacer un closet con chapa donde quepan estas cosas ¡Genial! sino busque algún servicio de bodega de renta cerca a su departamento también hay algunos edificios que cuentan con bodegas de renta o algún vecino que no use la suya.    
 
-## Quiero usar mi propiedad, rentarla y que la administren ¿Se puede? 
+### Quiero usar mi propiedad, rentarla y que la administren ¿Se puede? 
 
 ¡Claro que sí! Parte de nuestro servicio es que pagues por el servicio que utilizas con TBD puede solicitar desde Full service o solo Servicio al huesped (Guest Service) agenda una sesión si quieres aprender [más][2] 
 
