@@ -17,9 +17,9 @@ Por eso en [TBDHost][1] decidimos escribir sobre este asunto y como nuestro serv
 
 Para abordar este tema empecemos a explicar dos tipos de negocios el primero es de renta tradicional y el segundo es rentas vacacional o de estancias cortas (rentas de abajo de 30 noches). 
 
-En la renta tradicional se compra un inmueble lo cual es la inversión y se renta por un periodo de un 6 meses o 1 año a renta fija a un responsable (empresa o persona. No hay demasiada operación en este negocio más que el seguimiento al pago de renta mensual, el mantenimiento a tuberías y daños al inmueble y revisión del inmueble a la entrega del mismo.
+En la renta tradicional se compra un inmueble lo cual es la inversión y se renta por un periodo de 6 meses a un año a renta fija a un responsable (empresa o persona). No hay demasiada operación en este modelo de negocio más que el seguimiento al pago de renta mensual, el mantenimiento a tuberías y daños al inmueble y revisión del inmueble a la entrega del mismo.
 
-> Todo depende del tiempo que rentas tu propiedad y la operación que esto te va implicar.
+> Cada modelo de negocio depende del tiempo de renta de tu propiedad, la operación y la ubicación. 
 
 El segundo negocio es de Rentas vacacionales o de estancias coartas. En este la inversión es la compra del inmueble, los muebles más amenidades especiales. 
 
