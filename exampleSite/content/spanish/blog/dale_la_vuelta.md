@@ -33,7 +33,7 @@ La respuesta corta es No. Casí cualquier respuesta de bienes inmuebles es Ubica
 
 > Si quieres saber cuanto dinero puede generar tu propiedad [preguntanos][6]
 
-### A continuación trataremos algunas inquietudes que neustros clientes nos hacen: 
+A continuación trataremos algunas inquietudes que neustros clientes nos hacen: 
 
 ### Tengo una propiedad pero me da miedo que la dañen si la pongo a renta. 
 
