@@ -1,8 +1,8 @@
 ---
 title: "Da el salto con tu propiedad"
-date: 2022-06-07T10:28:36+06:00
-image_webp: /Users/victorsoplat/Documents/2022/TBD/Website/Hugo_template/TBD/themes/meghna-hugo/exampleSite/static/images/Blogimages/Da_el_salto1706.webp
-image: /Users/victorsoplat/Documents/2022/TBD/Website/Hugo_template/TBD/themes/meghna-hugo/exampleSite/static/images/Blogimages/Da_el_salto1706.png
+date: 2022-06-17T10:28:36+06:00
+image_webp: /Users/victorsoplat/Documents/2022/TBD/Website/Hugo_template/TBD/themes/meghna-hugo/exampleSite/static/images/Blogimages/Da_el_salto1706.jpg 
+image: /Users/victorsoplat/Documents/2022/TBD/Website/Hugo_template/TBD/themes/meghna-hugo/exampleSite/static/images/Blogimages/Da_el_salto1706.webp 
 author: Elizabeth Hernandez
 description : "Como pasar de tener una propiedad a una propiedad de rentas vacacionales"
 ---
