@@ -2,7 +2,7 @@
 title: "¿Propiedad de descanso o propiedad de renta?"
 date: 2022-06-17T13:00:00+06:00
 image_webp: exampleSite/static/images/Blogimages/verano.webp
-image: images/Blogimages/verano.jpg
+image: exampleSite/static/images/Blogimages/verano.jpg
 author: Elizabeth Hernandez
 description : "Prepara tu propiedad para el verano"
 ---
