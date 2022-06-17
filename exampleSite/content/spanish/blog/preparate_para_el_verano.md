@@ -1,8 +1,8 @@
 ---
 title: "Prepara tu Airbnb para el verano"
 date: 2022-06-07T10:28:36+06:00
-image_webp: exampleSite/static/images/Blogimages/verano.webp
-image: images/Blogimages/verano.jpg
+image_webp: images/blog/verano.webp
+image: images/blog/verano.jpg
 author: Elizabeth Hernandez
 description : "Prepara tu propiedad para el verano"
 ---

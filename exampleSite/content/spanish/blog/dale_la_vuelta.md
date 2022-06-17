@@ -1,5 +1,5 @@
 ---
-title: "¿Propiedad de descanso o propiedad de renta?"
+title: "¿Propiedad de vacaciones o negocio vacacional?"
 date: 2022-06-17T10:28:36+06:00
 image_webp: images/blog/Da_el_salto1706.webp 
 image: images/blog/Da_el_salto1706.jpg 
