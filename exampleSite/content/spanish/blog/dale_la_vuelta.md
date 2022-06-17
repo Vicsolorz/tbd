@@ -1,5 +1,5 @@
 ---
-title: "Da el salto con tu propiedad"
+title: "¿Propiedad de descanso o propiedad de renta?"
 date: 2022-06-17T10:28:36+06:00
 image_webp: exampleSite/static/images/Blogimages/Da_el_salto1706.jpg 
 image: exampleSite/static/images/Blogimages/Da_el_salto1706.webp 
