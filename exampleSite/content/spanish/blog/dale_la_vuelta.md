@@ -9,7 +9,7 @@ description : "Como pasar de tener una propiedad a una propiedad de rentas vacac
 
 # Conviertan su propiedad de descanso en un ingreso más.
 
-Mucho de nuestros clientes están teninedo problemas en entender este nuevo cambio que están trayendo plataformas como **Airbnb**, **Booking.com** y **VRBO** adicional a estas plataformas la flexibilidad en trabajos por medio de la modalidad Home Office. 
+Varios de nuestros clientes están teninedo problemas en entender este nuevo cambio que están trayendo plataformas como **Airbnb**, **Booking.com** y **VRBO** adicional a estas plataformas la flexibilidad en trabajos por medio de la modalidad Home Office. 
 
 Por eso en [TBDHost][1] decidimos escribir sobre este asunto y como nuestro servicio puede ayudarte a cambiar tu propiedad y optimizarla para un negocio de rentas vacacionales.
 
