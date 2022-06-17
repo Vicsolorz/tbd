@@ -1,8 +1,8 @@
 ---
 title: "Da el salto con tu propiedad"
 date: 2022-06-17T10:28:36+06:00
-image_webp: /exampleSite/static/images/Blogimages/Da_el_salto1706.jpg 
-image: /exampleSite/static/images/Blogimages/Da_el_salto1706.webp 
+image_webp: exampleSite/static/images/Blogimages/Da_el_salto1706.jpg 
+image: exampleSite/static/images/Blogimages/Da_el_salto1706.webp 
 author: Elizabeth Hernandez
 description : "Como pasar de tener una propiedad a una propiedad de rentas vacacionales"
 ---
